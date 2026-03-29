@@ -3,11 +3,9 @@
 
 - 🔭 I’m currently working on **ReactJs | NodeJs | MERN Stack | Front-end | Back-end Projects**
 
-- 👨‍💻 All of my projects are available at [https://manas-srivastava-portfolio.netlify.app/](https://manas-srivastava-portfolio.netlify.app/)
-
 - 📫 How to reach me **manasshrivastava0410@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1wkihaUnIFV4Q1aZNeX5PF37z-jwCCGXH/view?usp=sharing](https://drive.google.com/file/d/1wkihaUnIFV4Q1aZNeX5PF37z-jwCCGXH/view?usp=sharing)
+- 📄 Know about my experiences [https://manas0410.vercel.app/](https://manas0410.vercel.app/)
 
 - ⚡ Fun fact **Committing code and committing to decisions - both with a #YOLO mindset**
 
